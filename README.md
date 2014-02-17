@@ -1,0 +1,4 @@
+PLACES-IDEAS
+============
+
+Aplicación Proyecto
