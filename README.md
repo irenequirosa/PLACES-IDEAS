@@ -13,3 +13,5 @@ Estas fotos de lugares se podrán comentar y dar opiniones por los distintos usu
 Existirá un filtro de búsqueda para buscar lugares a visitar por provincias y así filtrar los lugares deseados.
 De esta forma podrás elegir que hacer y que ver, conociendo los principales puntos de interés de esa zona.
 Además mediante Google Maps te mostrará el camino más corto para ir hacia el lugar elegido.
+
+De esta forma tan fácil, los miembros de PLACES-IDEAS podrán buscar los lugares más atractivos de alguna provincia compartidos por los demás usuarios y marcarlos como favoritos para no perderse ninguno.
